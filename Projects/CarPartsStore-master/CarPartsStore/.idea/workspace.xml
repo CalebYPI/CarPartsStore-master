@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f05efbf-d965-472e-b762-4e90e4a2c51d" name="Default Changelist" comment="Updates made to a few classes along with test cases" />
+    <list default="true" id="2f05efbf-d965-472e-b762-4e90e4a2c51d" name="Default Changelist" comment="Repos, Services, utils were added">
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/pom.xml" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/pom.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/CarRetailerApplication.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/CarRetailerApplication.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/domain/Part/Part.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/domain/Part/Part.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/domain/Transaction/Invoice.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/domain/Transaction/Invoice.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/domain/Transaction/OrderPart.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/domain/Transaction/OrderPart.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/factory/Customer/CustomerFactory.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/factory/Customer/CustomerFactory.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/factory/Inventory/InventoryFactory.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/factory/Inventory/InventoryFactory.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/factory/Part/PartFactory.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/factory/Part/PartFactory.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/factory/Staff/StaffFactory.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/factory/Staff/StaffFactory.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Customer/CustomerRepository.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Customer/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Customer/impl/CustomerRepositoryImpl.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Customer/impl/CustomerRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Inventory/InventoryRepository.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Inventory/InventoryRepository.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Inventory/impl/InventoryRepositoryImpl.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Inventory/impl/InventoryRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Part/PartRepository.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Part/PartRepository.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Part/impl/PartRepositoryImpl.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Part/impl/PartRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Staff/StaffRepository.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Staff/StaffRepository.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Staff/impl/StaffRepositoryImpl.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/repository/Staff/impl/StaffRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Customer/CustomerService.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Customer/CustomerService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Customer/impl/CustomerServiceImpl.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Customer/impl/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/IService.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/IService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Inventory/InventoryService.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Inventory/InventoryService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Inventory/impl/InventoryServiceImpl.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Inventory/impl/InventoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Part/PartService.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Part/PartService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Staff/StaffService.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Staff/StaffService.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Staff/impl/StaffServiceImpl.java" beforeDir="false" afterPath="$USER_HOME$/Desktop/Caleb/Campus/3rd Year/Applications Development Practice 3/Projects/CarPartsStore-master/CarPartsStore/src/main/java/za/ac/cput/group3B/service/Staff/impl/StaffServiceImpl.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +43,79 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/IController.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Customer/CustomerRepositoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Customer/CustomerController.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Inventory/InventoryRepositoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Part/PartRepositoryImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Transaction/InvoiceRepositoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Transaction/OrderPartRepositoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Customer/CustomerServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Inventory/InventoryServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Part/PartServiceImplTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Transaction/InvoiceServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
@@ -33,65 +123,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Inventory/InventoryController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Part/PartController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Staff/StaffController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Transaction/InvoiceController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Transaction/OrderPartController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/IRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Transaction/OrderPartServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+            <state relative-caret-position="34">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -101,8 +137,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Interface" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -114,28 +150,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Customer.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Customer/Payment/CustPayment.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Customer/Payment/CustomerPaymentFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Staff/StaffFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Staff/Staff.java" />
         <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/factory/Staff/StaffFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Inventory/InventoryFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/factory/Inventory/InventoryFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Customer/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Customer/CustomerFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/factory/Customer/CustomerFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Part/PartFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/factory/Part/PartFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Part/Part.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Inventory/Inventory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Transaction/OrderPart.java" />
-        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Staff/StaffRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction/InvoiceService.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Inventory/CustomerService.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/util/Misc.java" />
         <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/IRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Customer/CustomerRepository.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Customer/impl/CustomerRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Staff/impl/StaffRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Staff/StaffRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Part/PartRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Transaction/Invoice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Transaction/OrderPart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Part/PartFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Inventory/InventoryFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Customer/CustomerFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Staff/StaffFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Part/Part.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/IService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/CarRetailerApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Customer/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Inventory/InventoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Part/PartService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Staff/StaffService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Customer/impl/CustomerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Inventory/InventoryRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Inventory/impl/InventoryRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Inventory/impl/InventoryServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction/InvoiceService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction/OrderPartService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Transaction/InvoiceRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Transaction/OrderPartRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Part/impl/PartRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Part/impl/PartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/IController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Staff/impl/StaffServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Staff/StaffController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Customer/CustomerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Inventory/InventoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Part/PartController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Customer/CustomerRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/StaffServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/factory/Transaction/InvoiceFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/controller/Part/PartControllerTest.java" />
       </list>
     </option>
   </component>
@@ -146,7 +211,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="683" />
     <option name="width" value="683" />
     <option name="height" value="728" />
   </component>
@@ -202,49 +268,27 @@
               <item name="CarPartsStore" type="b2602c69:ProjectViewProjectNode" />
               <item name="CarPartsStore" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarPartsStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarPartsStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarPartsStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarPartsStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarPartsStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarPartsStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="Customer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarPartsStore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarPartsStore" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="group3b" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
               <item name="Inventory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CarPartsStore" type="b2602c69:ProjectViewProjectNode" />
               <item name="CarPartsStore" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="Part" type="462c0819:PsiDirectoryNode" />
+              <item name="group3b" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="Staff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarPartsStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarPartsStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CarPartsStore" type="b2602c69:ProjectViewProjectNode" />
@@ -252,8 +296,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="Staff" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarPartsStore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarPartsStore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="group3b" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,7 +317,7 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558036882677" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -275,20 +325,28 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="za.ac.cput.group3b.repository.Customer" />
       <recent name="za.ac.cput.group3b.factory.Part" />
       <recent name="za.ac.cput.group3b.factory.Inventory" />
       <recent name="za.ac.cput.group3b.factory.Customer" />
       <recent name="za.ac.cput.group3b.factory.Staff" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="za.ac.cput.group3b.service.Staff" />
+      <recent name="za.ac.cput.group3b.repository.Staff" />
+      <recent name="za.ac.cput.group3b.controller.Staff" />
+      <recent name="za.ac.cput.group3b.factory.Transaction" />
+      <recent name="za.ac.cput.group3b.controller" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Darryl\IdeaProjects\CarPartsStore\src\test\java\za\ac\cput\group3b\service" />
+      <recent name="C:\Users\Darryl\IdeaProjects\CarPartsStore\src\test\java\za\ac\cput\group3b\controller" />
       <recent name="C:\Users\Darryl\IdeaProjects\CarPartsStore\src\main\java\za\ac\cput\group3b\service\Transaction" />
       <recent name="C:\Users\Darryl\IdeaProjects\CarPartsStore\src\main\java\za\ac\cput\group3b\service\Staff" />
       <recent name="C:\Users\Darryl\IdeaProjects\CarPartsStore\src\main\java\za\ac\cput\group3b\service\Part" />
-      <recent name="C:\Users\Darryl\IdeaProjects\CarPartsStore\src\main\java\za\ac\cput\group3b\service\Inventory" />
-      <recent name="C:\Users\Darryl\IdeaProjects\CarPartsStore\src\main\java\za\ac\cput\group3b\repository\Staff" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -302,6 +360,26 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CarRetailerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="za.ac.cput.group3b.CarRetailerApplication" />
+      <module name="CarPartsStore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.ac.cput.group3b.service.Staff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarRetailerApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -328,14 +406,27 @@
       <option name="project" value="LOCAL" />
       <updated>1558384611874</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Repos, Services, utils were added">
+      <created>1558434732452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558434732453</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updates and Maintenance">
+      <created>1558449249734</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558449249734</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2677761" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14977308" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -351,7 +442,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" weight="0.32843137" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49924356" weight="0.33724833" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32843137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,341 +497,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated directories and added files" />
     <MESSAGE value="Updates made to a few classes along with test cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates made to a few classes along with test cases" />
+    <MESSAGE value="Repos, Services, utils were added" />
+    <MESSAGE value="Updates and Maintenance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates and Maintenance" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Staff/StaffFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Inventory/InventoryFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Customer/CustomerFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/factory/Customer/CustomerFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Part/PartFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/factory/Part/PartFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Staff/Staff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Customer/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="57" column="60" selection-start-line="57" selection-start-column="60" selection-end-line="57" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Part/Part.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Inventory/Inventory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/IService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Customer/CustomerFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Customer/impl/CustomerRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Transaction/Invoice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Transaction/OrderPart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Transaction/OrderPartFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Transaction/InvoiceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Inventory/InventoryRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Part/PartRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Staff/StaffRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Inventory/impl/InventoryRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Part/impl/PartRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Staff/impl/StaffRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Transaction/InvoiceRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Transaction/OrderPartRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Transaction/impl/InvoiceRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Transaction/impl/OrderPartRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/CarRetailerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Customer/CustomerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Inventory/InventoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Part/PartService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Staff/StaffService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Inventory/CustomerService.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction/InvoiceService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction/OrderPartService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Customer/impl/CustomerServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Inventory/impl/InventoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Part/impl/PartServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Staff/impl/StaffServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction/impl/InvoiceServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction/impl/OrderPartServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/util/Misc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Customer/CustomerRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/IController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Customer/CustomerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Inventory/InventoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Part/PartController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Staff/StaffController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Transaction/InvoiceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Transaction/OrderPartController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state relative-caret-position="136">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -751,17 +539,408 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.4.RELEASE/spring-boot-dependencies-2.1.4.RELEASE.pom">
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Inventory/impl/InventoryRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="1151" selection-start-line="1151" selection-end-line="1151" />
+        <state relative-caret-position="496">
+          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/impl/CustomerRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="27" lean-forward="true" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
+        <state relative-caret-position="-51">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction/OrderPartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Transaction/InvoiceRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="70" selection-start-line="5" selection-start-column="70" selection-end-line="5" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Transaction/OrderPartRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Transaction/impl/InvoiceRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Transaction/InvoiceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Part/PartRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Part/PartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Part/impl/PartRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/IController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/IService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Staff/StaffService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Staff/impl/StaffServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Part/impl/PartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Inventory/InventoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Inventory/impl/InventoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/service/Customer/impl/CustomerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/factory/Part/PartFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Staff/StaffController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Inventory/InventoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Part/PartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1012#1013#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/domain/Part/Part.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/controller/Customer/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Inventory/InventoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/Staff/StaffRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/za/ac/cput/group3b/repository/CustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Staff/StaffRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/controller/Staff/StaffControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Staff/StaffServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/factory/Transaction/InvoiceFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/controller/Customer/CustomerControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/controller/Inventory/InventoryControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/controller/Transaction/InvoiceControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/controller/Part/PartControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/controller/Transaction/OrderPartControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/factory/Transaction/OrderPartFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Customer/CustomerRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Inventory/InventoryRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Part/PartRepositoryImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Transaction/InvoiceRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/repository/Transaction/OrderPartRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Customer/CustomerServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Inventory/InventoryServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Part/PartServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Transaction/InvoiceServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/za/ac/cput/group3b/service/Transaction/OrderPartServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>

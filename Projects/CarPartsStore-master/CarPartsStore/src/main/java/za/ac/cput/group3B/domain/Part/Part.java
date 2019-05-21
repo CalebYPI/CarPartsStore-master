@@ -46,6 +46,13 @@ public class Part {
             return this;
         }
 
+        public Builder copy(Part part) {
+            this.partId = part.partId;
+            this.partName = part.partName;
+            this.partPrice = part.partPrice;
+            return this;
+        }
+
         public Part build() {
             return new Part(this);
         }

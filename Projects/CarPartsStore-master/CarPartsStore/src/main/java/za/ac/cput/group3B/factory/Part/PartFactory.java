@@ -1,11 +1,12 @@
 package za.ac.cput.group3b.factory.Part;
 
 import za.ac.cput.group3b.domain.Part.Part;
+import za.ac.cput.group3b.util.Misc;
 
 public class PartFactory {
-    public static Part getPart(String partId, String partName, double partPrice) {
+    public static Part getPart(String partName, double partPrice) {
         return new Part.Builder()
-                .partId(partId)
+                .partId(Misc.generateId())
                 .partName(partName)
                 .partPrice(partPrice)
                 .build();
