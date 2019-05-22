@@ -1,8 +1,9 @@
 package za.ac.cput.group3b.domain.Staff;
 
+import java.util.Objects;
+
 public class Staff {
-    private int staffId;
-    private String staffFName, staffLName, staffJobTitle;
+    private String staffId, staffFName, staffLName, staffJobTitle;
 
     private Staff() {}
 
@@ -13,27 +14,18 @@ public class Staff {
         this.staffJobTitle = builder.staffJobTitle;
     }
 
-    public int getStaffId() {
-        return staffId;
-    }
+    public String getStaffId() { return staffId; }
 
-    public String getStaffFName() {
-        return staffFName;
-    }
+    public String getStaffFName() { return staffFName; }
 
-    public String getStaffLName() {
-        return staffLName;
-    }
+    public String getStaffLName() { return staffLName; }
 
-    public String getStaffJobTitle() {
-        return staffJobTitle;
-    }
+    public String getStaffJobTitle() { return staffJobTitle; }
 
     public static class Builder {
-        private int staffId;
-        private String staffFName, staffLName, staffJobTitle;
+        private String staffId, staffFName, staffLName, staffJobTitle;
 
-        public Builder staffId(int staffId) {
+        public Builder staffId(String staffId) {
             this.staffId = staffId;
             return this;
         }
@@ -68,4 +60,15 @@ public class Staff {
                 "\nStaff Job Title: " + getStaffJobTitle() +
                 "\n}";
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if ((o == null) || getClass() != o.getClass()) return false;
+        Staff staff = (Staff) o;
+        return staffId.equals(staff.staffId);
+    }
+
+    @Override
+    public int hashCode() { return Objects.hash(staffId); }
 }
