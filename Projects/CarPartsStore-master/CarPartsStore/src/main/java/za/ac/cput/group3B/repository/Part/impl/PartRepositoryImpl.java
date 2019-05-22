@@ -8,16 +8,9 @@ import java.util.*;
 public class PartRepositoryImpl implements PartRepository {
 
     private static PartRepositoryImpl repository = null;
-    private Set<Part> parts;
+    private Map<String, Part> parts;
 
-    private PartRepositoryImpl() { this.parts = new HashSet<>(); }
-
-    private Part findPart(String partId) {
-        return this.parts.stream()
-                .filter(part -> part.getPartId().trim().equals(partId))
-                .findAny()
-                .orElse(null);
-    }
+    private PartRepositoryImpl() { this.parts = new HashMap<>(); }
 
     public static PartRepository getRepository() {
         if (repository == null) repository = new PartRepositoryImpl();
@@ -25,28 +18,23 @@ public class PartRepositoryImpl implements PartRepository {
     }
 
     public Part create(Part part) {
-        this.parts.add(part);
-        return part;
+        this.parts.put(part.getPartId(), part);
+        return this.parts.get(part.getPartId());
     }
 
     public Part update(Part part) {
-        Part toDelete = findPart(part.getPartId());
-        if (toDelete != null) {
-            this.parts.remove(toDelete);
-            return create(part);
-        }
-        return null;
+        this.parts.replace(part.getPartId(), part);
+        return this.parts.get(part.getPartId());
     }
 
-    public void delete(String partId) {
-        Part part = findPart(partId);
-        if (part != null) this.parts.remove(part);
-    }
+    public void delete(String partId) { this.parts.remove(partId); }
 
-    public Part read(String partId) {
-        Part part = findPart(partId);
-        return part;
-    }
+    public Part read(String partId) { return this.parts.get(partId); }
 
-    public Set<Part> getAll() { return this.parts; }
+    public Set<Part> getAll() {
+        Collection<Part> parts = this.parts.values();
+        Set<Part> set = new HashSet<>();
+        set.addAll(parts);
+        return set;
+    }
 }
