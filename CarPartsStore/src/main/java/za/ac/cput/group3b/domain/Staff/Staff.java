@@ -1,11 +1,17 @@
 package za.ac.cput.group3b.domain.Staff;
 
+import javax.persistence.Embeddable;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 import java.util.Objects;
-
+@Entity
+@Embeddable
 public class Staff {
-    private String staffId, staffFName, staffLName, staffJobTitle;
+    @Id
+    private String staffId;
+    private String staffFName, staffLName, staffJobTitle;
 
-    private Staff() {}
+    protected Staff() {}
 
     private Staff(Builder builder) {
         this.staffId = builder.staffId;

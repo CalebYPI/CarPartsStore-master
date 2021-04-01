@@ -1,13 +1,20 @@
 package za.ac.cput.group3b.domain.Part;
 
+import javax.persistence.Embeddable;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 import java.util.Objects;
 
+@Entity
+@Embeddable
 public class Part {
 
-    private String partId, partName;
+    @Id
+    private String partId;
+    private String partName;
     private double partPrice;
 
-    private Part() {}
+    protected Part() {}
 
     private Part(Builder builder) {
         this.partId = builder.partId;

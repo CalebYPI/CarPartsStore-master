@@ -1,7 +1,10 @@
 package za.ac.cput.group3b.service.Transaction;
 
 import za.ac.cput.group3b.domain.Transaction.OrderPart;
-import za.ac.cput.group3b.repository.IRepository;
+import za.ac.cput.group3b.service.IService;
 
-public interface OrderPartService extends IRepository<OrderPart, String> {
+import java.util.Set;
+
+public interface OrderPartService extends IService<OrderPart, String> {
+    Set<OrderPart> getAll();
 }

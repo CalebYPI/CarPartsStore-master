@@ -12,7 +12,6 @@ import java.util.Set;
 @RequestMapping("/inventory")
 public class InventoryController {
     @Autowired
-    @Qualifier("ServiceImpl")
     private InventoryService service;
 
     @PostMapping("/create")

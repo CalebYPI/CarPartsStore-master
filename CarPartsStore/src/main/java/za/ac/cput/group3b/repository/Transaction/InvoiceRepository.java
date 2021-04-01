@@ -1,7 +1,9 @@
 package za.ac.cput.group3b.repository.Transaction;
 
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 import za.ac.cput.group3b.domain.Transaction.Invoice;
-import za.ac.cput.group3b.repository.IRepository;
 
-public interface InvoiceRepository extends IRepository<Invoice, String> {
+@Repository
+public interface InvoiceRepository extends JpaRepository<Invoice, String> {
 }

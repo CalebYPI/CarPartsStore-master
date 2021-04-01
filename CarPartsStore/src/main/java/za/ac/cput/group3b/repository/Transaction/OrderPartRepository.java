@@ -1,7 +1,9 @@
 package za.ac.cput.group3b.repository.Transaction;
 
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 import za.ac.cput.group3b.domain.Transaction.OrderPart;
-import za.ac.cput.group3b.repository.IRepository;
 
-public interface OrderPartRepository extends IRepository<OrderPart, String> {
+@Repository
+public interface OrderPartRepository extends JpaRepository<OrderPart, String> {
 }

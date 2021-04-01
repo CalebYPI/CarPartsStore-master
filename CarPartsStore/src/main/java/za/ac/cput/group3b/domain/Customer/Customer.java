@@ -1,15 +1,24 @@
 package za.ac.cput.group3b.domain.Customer;
 
+import javax.persistence.Embeddable;
+import javax.persistence.Entity;
+import javax.persistence.Id;
 import java.util.Objects;
 
+@Entity
+@Embeddable
 public class Customer {
-    private String customerId, customerName;
+    @Id
+    private String customerId;
+    private String customerName;
+    private String customerContactNumber;
 
-    private Customer() {}
+    protected Customer() {}
 
     private Customer(Builder builder) {
         this.customerId = builder.customerId;
         this.customerName = builder.customerName;
+        this.customerContactNumber = builder.customerContactNumber;
     }
 
     public String getCustomerId() {
@@ -20,8 +29,11 @@ public class Customer {
         return customerName;
     }
 
+    public String getCustomerNumber() { return customerContactNumber; }
+
     public static class Builder {
         private String customerId, customerName;
+        private String customerContactNumber;
 
         public Builder customerId(String customerId) {
             this.customerId = customerId;
@@ -30,6 +42,11 @@ public class Customer {
 
         public Builder customerName(String customerName) {
             this.customerName = customerName;
+            return this;
+        }
+
+        public Builder customerCustomerNumber(String number) {
+            this.customerContactNumber = customerContactNumber;
             return this;
         }
 
@@ -43,6 +60,7 @@ public class Customer {
         return "Customer{" +
                 "Customer Id:" + getCustomerId() +
                 ", Customer Name: '" + getCustomerName() + '\'' +
+                ", Customer Demography" + getCustomerNumber() +
                 '}';
     }
 

@@ -9,24 +9,34 @@ import za.ac.cput.group3b.service.Inventory.InventoryService;
 
 import java.util.Set;
 
-@Service("ServiceImpl")
+@Service
 public class InventoryServiceImpl implements InventoryService {
 
     @Autowired
-    @Qualifier("InMemory")
     private InventoryRepository repository;
 
     @Override
-    public Inventory create(Inventory inventory) { return repository.create(inventory); }
+    public Inventory create(Inventory inventory) { return this.repository.save(inventory); }
 
     @Override
-    public Inventory update(Inventory inventory) { return repository.update(inventory); }
+    public Inventory update(Inventory inventory) {
+        if (repository.existsById(inventory.getItemId()))
+            return this.repository.save(inventory);
+        return null;
+        }
 
     @Override
-    public void delete(String s) { repository.delete(s); }
+    public boolean delete(String s) {
+        this.repository.deleteById(s);
+        if (repository.existsById(s))
+            return false;
+        else return true;
+    }
 
     @Override
-    public Inventory read(String s) { return repository.read(s); }
+    public Inventory read(String s) {
+        return this.repository.findById(s).orElseGet(null);
+    }
 
     @Override
     public Set<Inventory> getAll() { return repository.getAll(); }

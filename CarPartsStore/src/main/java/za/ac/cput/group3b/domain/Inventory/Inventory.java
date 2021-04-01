@@ -3,17 +3,23 @@ package za.ac.cput.group3b.domain.Inventory;
 import za.ac.cput.group3b.domain.Customer.Customer;
 import za.ac.cput.group3b.domain.Part.Part;
 
+import javax.persistence.Embeddable;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.OneToMany;
 import java.util.Objects;
 import java.util.Set;
 
+@Entity
+@Embeddable
 public class Inventory {
-
+    @Id
+    private String itemId;
     private int itemQuantity;
-    private String itemId, itemName, itemDescription;
+    private String itemName, itemDescription;
     private double itemPrice;
-    private Set<Part> parts;
 
-    private Inventory() {}
+    protected Inventory() {}
 
     private Inventory(Builder builder) {
         this.itemId = builder.itemId;
@@ -47,7 +53,6 @@ public class Inventory {
         private int itemQuantity;
         private String itemId, itemName, itemDescription;
         private double itemPrice;
-        private Set<Part> parts;
 
         public Builder itemId(String itemId) {
             this.itemId = itemId;

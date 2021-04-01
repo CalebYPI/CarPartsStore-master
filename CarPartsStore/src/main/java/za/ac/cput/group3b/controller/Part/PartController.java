@@ -12,7 +12,6 @@ import java.util.Set;
 @RequestMapping("/part")
 public class PartController {
     @Autowired
-    @Qualifier("ServiceImpl")
     private PartService service;
 
     @PostMapping("/create")
